@@ -1,0 +1,6 @@
+{
+  "name": "Campus StoreShare",
+  "description": "Peer-to-peer micro-storage marketplace connecting hostellers with unused closet, room, or locker space to students needing short-term storage during semester breaks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
